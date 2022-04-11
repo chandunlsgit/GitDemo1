@@ -10,7 +10,7 @@ public class GitDemoClass {
   // System.out.println("FOURHT Demo statementss");
    System.out.println("FIFTH NEW statementssDFDS");
    System.out.println("Eclipse one commits");
-   System.out.println("Eclipse GITHUB commits");
+   System.out.println("Eclipse GITHUB commitsdsfsdfdsfds");
    
 	}
 
